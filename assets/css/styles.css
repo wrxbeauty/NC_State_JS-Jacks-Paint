@@ -38,4 +38,7 @@ body{
     height: 5.5em;
   }
 
-  
+  img:hover {
+    display: content;
+    color: black
+  }
